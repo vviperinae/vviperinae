@@ -1,3 +1,4 @@
+
 # 💫 Hi, I'm Safa
 **Computer Engineering Student** | **Cybersecurity Enthusiast**<br>
 ---
@@ -17,18 +18,14 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://my.linkedin.com/in/safa-sarfraz-1823b8333)
 
+🔝 **Top Contributed Repo**<br>
+---
+![](https://github-contributor-stats.vercel.app/api?username=vviperinae&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 📊 **GitHub Stats**<br>
 ---
 ![](https://github-readme-stats.vercel.app/api?username=vviperinae&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=vviperinae&theme=synthwave&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vviperinae&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-🏆 **GitHub Trophies**<br>
----
-![](https://github-profile-trophy.vercel.app/?username=vviperinae&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vviperinae&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
